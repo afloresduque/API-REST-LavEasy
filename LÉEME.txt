@@ -1,0 +1,7 @@
+***** API REST Python *****
+
+Esta API REST está alojada en el servidor gratuito www.pythonanywhere.com.
+Aquí se incluyen los dos archivos que componen el servicio 
+y el script .sql de la base de datos para insertarla si se quisieran realizar pruebas.
+
+*****
